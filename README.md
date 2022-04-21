@@ -1,5 +1,3 @@
-![I am GitHub Readme Generator's creator](https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/250132408_3396355820591276_1024883617074375658_n.jpg?stp=dst-jpg_s600x600&_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeE_9orDo0lIonNjkaVuHCe8R6cRS-jPr3NHpxFL6M-vcxFoCfd-v9NLMFgwoVQfpAdJprmIT37XtewRyy8rGuvM&_nc_ohc=2zO3gRVKe3YAX9omwa8&_nc_ht=scontent.frjh4-1.fna&oh=00_AT-iEuPAitp6sjjqEjRilbdSftIUhbOm-mm929B_OaMPNA&oe=6266016B)
-
 ### Hi there 👋, My Name is AbdurRahim
 #### I am GitHub Readme Generator's creator
 
