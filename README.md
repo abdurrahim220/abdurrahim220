@@ -7,7 +7,7 @@ Skills: C/ JS / HTML / Py
 
 - 🔭 I’m currently working on Email Marketing  
 - 🌱 I’m currently learning Java language and Python 
-- 👯 I’m looking to collaborate on  I’m looking to collaborate some big projects 
+- 👯 I’m looking to collaborate on some big projects 
 - 💬 Ask me about C & Java programming 
 - 📫 How to reach me: z.abdurrahim5@gmail.com 
 - 😄 Pronouns: Want to be a WebDevelpoer 
