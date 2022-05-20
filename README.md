@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name is AbdurRahim
 #### I am GitHub Readme Generator's creator
 
-Hey my name is Abdur Rahim. I am from Bangladesh. Studying Computer Science and Engineering. Currently, I'm in the third semester. I have completed C programe language and Java and Python Programe language running .Also I have some knowledge about HTML.
+Hey my name is Abdur Rahim. I am from Bangladesh. I am studying Computer Science and Engineering. I have completed the C program language, Java, and Python programming language. Also, I have some knowledge of HTML.
 
 Skills: C/ JS / HTML / Py
 
