@@ -3,7 +3,7 @@
 
 Hey my name is Abdur Rahim. I am from Bangladesh. I am studying Computer Science and Engineering. I have completed the C program language, Java, and Python programming language. Also, I have some knowledge of HTML.
 
-Skills: C/ JAVA / HTML / PYTHON / C++
+Skills: C/ JAVA / HTML / PYTHON / C++ / GO
 
 - 🔭 I’m currently working on Email Marketing  
 - 🌱 I’m currently learning Java language and Python 
