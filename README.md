@@ -12,7 +12,7 @@ Skills: C/ JAVA / HTML / PYTHON / C++ / GO
 - 📫 How to reach me: z.abdurrahim5@gmail.com 
 - 😄 Pronouns: Want to be a WebDevelpoer 
 - ⚡ Fun fact: I hate hudai chatting
-- 💜 purple_heart: Software Development
+- 💜 purple_heart: Learning Web Design And Development
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdurrahim220)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/royal.wd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rahim.royal//)  
