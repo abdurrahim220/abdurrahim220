@@ -10,7 +10,7 @@ Skills: C/ JAVA / HTML / PYTHON / C++ / GO
 - 👯 I’m looking to collaborate on some big projects 
 - 💬 Ask me about C & Java programming 
 - 📫 How to reach me: z.abdurrahim5@gmail.com 
-- 😄 Pronouns: Want to be a WebDevelpoer 
+- 😄 Pronouns: It's Complicated 😎
 - ⚡ Fun fact: I hate hudai chatting
 - 💜 purple_heart: Learning Web Design And Development
 
