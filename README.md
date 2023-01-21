@@ -4,10 +4,6 @@
 <h3 align="center">A passionate Full Stack Web developer from Bangaldesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahim220&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahim220" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahim220" alt="abdurrahim220" /></a> </p>
-
 - 🔭 I’m currently working on **Pyhton**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
@@ -21,6 +17,9 @@
 - 📫 How to reach me **z.abdurrahim5@gamil.com**
 
 - ⚡ Fun fact **Hate hudai chatting**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahim220&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahim220" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahim220" alt="abdurrahim220" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
