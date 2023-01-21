@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C/Java/Python/javaScript**
 
-- 📫 How to reach me **z.abdurrahim5@gamil.com**
+- 📫 How to reach me **z.abdurrahim5@gmail.com**
 - ⚡ Fun fact **Hate hudai chatting**
 
 
