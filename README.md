@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Big Project**
 
-- 🤝 I’m looking for help with **C/Java/Python/HTML/CSS/Bootstrap/Tailwind CSS/JavaScript**
+<!-- - 🤝 I’m looking for help with **C/Java/Python/HTML/CSS/Bootstrap/Tailwind CSS/JavaScript** -->
 
-- 💬 Ask me about **C/Java/Python/javaScript**
+- 💬 Ask me about **C/Java/Python/HTML/CSS/Bootstrap/Tailwind CSS/JavaScript**
 
 - 📫 How to reach me **z.abdurrahim5@gmail.com**
 - ⚡ Fun fact **Hate hudai chatting**
