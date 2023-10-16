@@ -3,15 +3,15 @@
 <h3 align="center">A passionate Full Stack Web developer from Bangaldesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Pyhton**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **NextJs,TypeScript,Mongoose**
 
 - 👯 I’m looking to collaborate on **Big Project**
 
-<!-- - 🤝 I’m looking for help with **C/Java/Python/HTML/CSS/Bootstrap/Tailwind CSS/JavaScript** -->
+<!-- - 🤝 I’m looking for help with **C/C++/Java/Python/JavaScript** -->
 
-- 💬 Ask me about **C/Java/Python/HTML/CSS/Bootstrap/Tailwind CSS/JavaScript**
+- 💬 Ask me about **C/Java/Python/HTML/CSS/Bootstrap/Tailwind CSS/JavaScript,Mongodb,Reactjs,ViteJs,NodeJs,ExpressJs,Firebase**
 
 - 📫 How to reach me **z.abdurrahim5@gmail.com**
 - ⚡ Fun fact **Hate hudai chatting**
