@@ -1,5 +1,5 @@
 # Hello World!, I'm Md Abdur Rahim, a Bangladeshi MERN Stack Developer 👋🏼:
-🎥 I’m currently working on bike-related information (BikeInfo360) and a bookkart e-commerce website<br>👬 I’m looking to collaborate on MERN stack projects and React Native Mobile Application.<br>🤝 I’m looking for help with Optimizing performance in large-scale MongoDB queries and NodeJs Backend.<br>🌱 I’m currently learning Advanced TypeScript, GraphQL, and performance optimization techniques in React Native.<br>💬 Ask me about MERN stack, React Native, MongoDB, and backend API development with Express.js.<br>⚡ Fun fact I enjoy solving binary tree problems and debugging complex queries for fun!<br>Let me know if you want any tweaks! 🚀
+🎥 I’m currently working on e-commerce sites information (future-shop) and a chatBot e-commerce website<br>👬 I’m looking to collaborate on MERN stack projects and React Native Mobile Application.<br>🤝 I’m looking for help with Optimizing performance in large-scale MongoDB queries and NodeJs Backend.<br>🌱 I’m currently learning Advanced TypeScript, GraphQL, and performance optimization techniques in React Native.<br>💬 Ask me about MERN stack, React Native, MongoDB, and backend API development with Express.js.<br>⚡ Fun fact I enjoy solving binary tree problems and debugging complex queries for fun!<br>Let me know if you want any tweaks! 🚀
 
 
 ## 🌐 Socials:
